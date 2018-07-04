@@ -1,3 +1,4 @@
+This code will compare the Ping result (latency, packet loss) of four ISPs (which are connected with 4 diffrent SSIDs) to multiple destinations(apple, gmail, facebook etc.).
 
 [STEPS 1 AND 2 ARE FOR THE FIRST TIME USE ONLY]
 
