@@ -21,8 +21,8 @@ Make sure you have done the followings:
 	
 	* inside the folder you should see pip.exe file
 	
-	* copy the location 
-	  example--->  C:\Users\Support\AppData\Local\Programs\Python\Python36-32\Scripts
+	* copy the location.
+	  Example--->  C:\Users\Support\AppData\Local\Programs\Python\Python36-32\Scripts
 	
 	* open CMD
 	
